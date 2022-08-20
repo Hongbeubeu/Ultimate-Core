@@ -1,0 +1,13 @@
+{
+  "name": "com.ultimate.core",
+  "version": "0.1.1",
+  "displayName": "Ultimate Core",
+  "description": "contains core scripts for all projects",
+  "unity": "2021.3",
+  "author": {
+    "name": "Hongnv",
+    "email": "hongnv1999@gmail.com",
+    "url": ""
+  },
+  "hideInEditor": false
+}
