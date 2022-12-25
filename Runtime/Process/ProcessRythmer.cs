@@ -2,7 +2,7 @@
 
 namespace Ultimate.Core.Runtime.Process
 {
-    [AddComponentMenu("LeeWayner/Process/Rythmer")]
+    [AddComponentMenu("UltimateCore/Process/Rythmer")]
     public class ProcessRythmer : MonoBehaviour {
 
         public bool useUnityTime = true;
